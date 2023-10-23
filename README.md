@@ -25,7 +25,7 @@
 - Open terminal
 - Ensure you are in the '/project' folder
 - Run command: python server.py
-- Above commmand will run the server. Open web browser and enter URL: http://localhost:8080
+- Above command will run the server. Open web browser and enter URL: http://localhost:8080
 - You can input text in either English or French and click 'Translate to French' or 'Translate to English' accordingly. 
 
 
