@@ -2,7 +2,9 @@
 
 ## Description
 
-- Simple Flask application using deep_translator python package to translate text from englsih to french and vice versa .
+- Simple Flask application using deep_translator python package to translate text from englsih to french and vice versa.
+
+![image](https://github.com/MaayonThayaparan/englishToFrenchTranslator/assets/43158629/b6f7530a-ec0b-4203-83a6-4f2a2bd240a7)
 
 ## Getting Started
 
